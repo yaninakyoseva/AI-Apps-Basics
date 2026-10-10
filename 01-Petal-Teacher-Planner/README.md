@@ -18,6 +18,12 @@ Created during the AI Apps Basics course using Lovable.
 ## Live Demo
 🌐 [Open Petal Teacher Planner](https://cute-simple-teacherpalnner.lovable.app/)
 
+## Source Code
+
+The source code for this application is available in a separate GitHub repository, synchronized with Lovable.
+
+💻 [View Petal Source Code](https://github.com/yaninakyoseva/cute-simple-teacherpalnner)
+
 ## Project Status
 Initial prototype developed as part of the AI Apps Basics course.
 
