@@ -28,14 +28,16 @@ Initial prototype developed as part of the AI Apps Basics course.
 - Application planning and iteration
 - ## Application Screenshots
 
-### Screenshot 1
-![Petal screenshot 1](./Екранна снимка 2026-10-10 112859.png)
+## 🌸 Application Preview
 
-### Screenshot 2
-![Petal screenshot 2](./Екранна снимка 2026-10-10 112914.png)
+### Dashboard
+![Dashboard](<./Екранна снимка 2026-10-10 112859.png>)
 
-### Screenshot 3
-![Petal screenshot 3](./Екранна снимка 2026-10-10 112930.png)
+### Lesson Schedule
+![Lesson Schedule](<./Екранна снимка 2026-10-10 112914.png>)
+
+### Student Management
+![Student Management](<./Екранна снимка 2026-10-10 112930.png>)
 
 ## Course
 AI Apps Basics | October 2026
