@@ -60,6 +60,7 @@ The application was tested by:
 **Exercise:** Building Apps with AI Prompts  
 **Project:** Barcode Generator / Reader
 
+
 ## Author
 
 Created as part of my AI application development learning journey.
