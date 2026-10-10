@@ -13,6 +13,10 @@ The goal of this exercise was to practice prompt engineering and AI-assisted app
 
 [Try CodeBloom](https://codebloom-barcodeapp.lovable.app/)
 
+## Source Code
+
+[View the source code on GitHub](https://github.com/yaninakyoseva/codebloom-barcodeapp)
+
 ## Features
 
 - Generate Code 128 barcodes from ASCII text
