@@ -13,6 +13,10 @@ The main goal of this exercise was to practice iterative AI-assisted application
 
 [Try Forma - Business Card Generator](https://business-card-generator-byforma.lovable.app/)
 
+## Source Code
+
+[View the source code on GitHub](https://github.com/yaninakyoseva/business-card-generator-byforma)
+
 ## Features
 
 - Create personalized business cards
